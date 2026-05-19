@@ -1,5 +1,3 @@
+favClr = input("Write here your favourite color ")
 
-name = input("what is your favourite color ")
-
-
-print("Your favorite color is [" + name + "]")
+print("This is your Favourite Color ", favClr)
